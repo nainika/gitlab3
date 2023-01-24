@@ -10,3 +10,5 @@ average = (test1 + test2 + test3) / 3.0
 
 # Display the average.
 print('The average score is', average)
+print("newline")
+      
